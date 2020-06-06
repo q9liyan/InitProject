@@ -1,0 +1,23 @@
+//
+//  Eduoep-Prefix.pch
+//  Eduoep
+//
+//  Created by apple on 2020/6/1.
+//  Copyright © 2020 apple. All rights reserved.
+//
+
+#ifndef Eduoep_Prefix_pch
+#define Eduoep_Prefix_pch
+
+#ifdef __OBJC__
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import <SDWebImage/UIImageView+WebCache.h>
+#import "Threading.h"
+
+#import "Macro.h"
+#import "NerdyUI.h"
+#import "YYText.h"
+
+#endif
+#endif /* Eduoep_Prefix_pch */

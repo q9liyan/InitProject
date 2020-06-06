@@ -1,0 +1,230 @@
+PODS:
+  - Alamofire (5.2.1)
+  - AppAuth (1.3.0):
+    - AppAuth/Core (= 1.3.0)
+    - AppAuth/ExternalUserAgent (= 1.3.0)
+  - AppAuth/Core (1.3.0)
+  - AppAuth/ExternalUserAgent (1.3.0)
+  - Bugly (2.5.4)
+  - FBSDKCoreKit (7.0.0):
+    - FBSDKCoreKit/Basics (= 7.0.0)
+    - FBSDKCoreKit/Core (= 7.0.0)
+  - FBSDKCoreKit/Basics (7.0.0)
+  - FBSDKCoreKit/Core (7.0.0):
+    - FBSDKCoreKit/Basics
+  - FBSDKLoginKit (7.0.0):
+    - FBSDKLoginKit/Login (= 7.0.0)
+  - FBSDKLoginKit/Login (7.0.0):
+    - FBSDKCoreKit (~> 7.0.0)
+  - GoogleSignIn (5.0.2):
+    - AppAuth (~> 1.2)
+    - GTMAppAuth (~> 1.0)
+    - GTMSessionFetcher/Core (~> 1.1)
+  - GTMAppAuth (1.0.0):
+    - AppAuth/Core (~> 1.0)
+    - GTMSessionFetcher (~> 1.1)
+  - GTMSessionFetcher (1.4.0):
+    - GTMSessionFetcher/Full (= 1.4.0)
+  - GTMSessionFetcher/Core (1.4.0)
+  - GTMSessionFetcher/Full (1.4.0):
+    - GTMSessionFetcher/Core (= 1.4.0)
+  - HandyJSON (5.0.1)
+  - IQKeyboardManager (6.5.5)
+  - KeychainAccess (4.2.0)
+  - MJRefresh (3.4.3)
+  - ObjcExceptionBridging (1.0.1):
+    - ObjcExceptionBridging/ObjcExceptionBridging (= 1.0.1)
+  - ObjcExceptionBridging/ObjcExceptionBridging (1.0.1)
+  - RxCocoa (5.1.1):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxRelay (5.1.1):
+    - RxSwift (~> 5)
+  - RxSwift (5.1.1)
+  - SDWebImage (5.3.0):
+    - SDWebImage/Core (= 5.3.0)
+  - SDWebImage/Core (5.3.0)
+  - SnapKit (5.0.0)
+  - SwiftyJSON (4.3.0)
+  - WechatOpenSDK (1.8.7.1)
+  - XCGLogger (7.0.1):
+    - XCGLogger/Core (= 7.0.1)
+  - XCGLogger/Core (7.0.1):
+    - ObjcExceptionBridging
+  - YapDatabase (4.0):
+    - YapDatabase/Standard (= 4.0)
+  - YapDatabase/Standard (4.0):
+    - YapDatabase/Standard/Core (= 4.0)
+    - YapDatabase/Standard/Extensions (= 4.0)
+  - YapDatabase/Standard-ObjC/Core (4.0)
+  - YapDatabase/Standard-ObjC/Extensions/ActionManager (4.0):
+    - YapDatabase/Standard-ObjC/Core
+    - YapDatabase/Standard-ObjC/Extensions/AutoView
+  - YapDatabase/Standard-ObjC/Extensions/AutoView (4.0):
+    - YapDatabase/Standard-ObjC/Core
+    - YapDatabase/Standard-ObjC/Extensions/View
+  - YapDatabase/Standard-ObjC/Extensions/CloudCore (4.0):
+    - YapDatabase/Standard-ObjC/Core
+  - YapDatabase/Standard-ObjC/Extensions/CloudKit (4.0):
+    - YapDatabase/Standard-ObjC/Core
+  - YapDatabase/Standard-ObjC/Extensions/CrossProcessNotification (4.0):
+    - YapDatabase/Standard-ObjC/Core
+  - YapDatabase/Standard-ObjC/Extensions/FilteredView (4.0):
+    - YapDatabase/Standard-ObjC/Core
+    - YapDatabase/Standard-ObjC/Extensions/View
+  - YapDatabase/Standard-ObjC/Extensions/FullTextSearch (4.0):
+    - YapDatabase/Standard-ObjC/Core
+  - YapDatabase/Standard-ObjC/Extensions/Hooks (4.0):
+    - YapDatabase/Standard-ObjC/Core
+  - YapDatabase/Standard-ObjC/Extensions/ManualView (4.0):
+    - YapDatabase/Standard-ObjC/Core
+    - YapDatabase/Standard-ObjC/Extensions/View
+  - YapDatabase/Standard-ObjC/Extensions/Relationships (4.0):
+    - YapDatabase/Standard-ObjC/Core
+  - YapDatabase/Standard-ObjC/Extensions/RTreeIndex (4.0):
+    - YapDatabase/Standard-ObjC/Core
+  - YapDatabase/Standard-ObjC/Extensions/SearchResultsView (4.0):
+    - YapDatabase/Standard-ObjC/Core
+    - YapDatabase/Standard-ObjC/Extensions/AutoView
+    - YapDatabase/Standard-ObjC/Extensions/FullTextSearch
+  - YapDatabase/Standard-ObjC/Extensions/SecondaryIndex (4.0):
+    - YapDatabase/Standard-ObjC/Core
+  - YapDatabase/Standard-ObjC/Extensions/View (4.0):
+    - YapDatabase/Standard-ObjC/Core
+  - YapDatabase/Standard/Core (4.0):
+    - YapDatabase/Standard-ObjC/Core
+  - YapDatabase/Standard/Extensions (4.0):
+    - YapDatabase/Standard/Core
+    - YapDatabase/Standard/Extensions/ActionManager (= 4.0)
+    - YapDatabase/Standard/Extensions/AutoView (= 4.0)
+    - YapDatabase/Standard/Extensions/CloudCore (= 4.0)
+    - YapDatabase/Standard/Extensions/CloudKit (= 4.0)
+    - YapDatabase/Standard/Extensions/CrossProcessNotification (= 4.0)
+    - YapDatabase/Standard/Extensions/FilteredView (= 4.0)
+    - YapDatabase/Standard/Extensions/FullTextSearch (= 4.0)
+    - YapDatabase/Standard/Extensions/Hooks (= 4.0)
+    - YapDatabase/Standard/Extensions/ManualView (= 4.0)
+    - YapDatabase/Standard/Extensions/Relationships (= 4.0)
+    - YapDatabase/Standard/Extensions/RTreeIndex (= 4.0)
+    - YapDatabase/Standard/Extensions/SearchResultsView (= 4.0)
+    - YapDatabase/Standard/Extensions/SecondaryIndex (= 4.0)
+    - YapDatabase/Standard/Extensions/View (= 4.0)
+  - YapDatabase/Standard/Extensions/ActionManager (4.0):
+    - YapDatabase/Standard-ObjC/Extensions/ActionManager
+    - YapDatabase/Standard/Core
+    - YapDatabase/Standard/Extensions/AutoView
+  - YapDatabase/Standard/Extensions/AutoView (4.0):
+    - YapDatabase/Standard-ObjC/Extensions/AutoView
+    - YapDatabase/Standard/Core
+    - YapDatabase/Standard/Extensions/View
+  - YapDatabase/Standard/Extensions/CloudCore (4.0):
+    - YapDatabase/Standard-ObjC/Extensions/CloudCore
+    - YapDatabase/Standard/Core
+  - YapDatabase/Standard/Extensions/CloudKit (4.0):
+    - YapDatabase/Standard-ObjC/Extensions/CloudKit
+    - YapDatabase/Standard/Core
+  - YapDatabase/Standard/Extensions/CrossProcessNotification (4.0):
+    - YapDatabase/Standard-ObjC/Extensions/CrossProcessNotification
+    - YapDatabase/Standard/Core
+  - YapDatabase/Standard/Extensions/FilteredView (4.0):
+    - YapDatabase/Standard-ObjC/Extensions/FilteredView
+    - YapDatabase/Standard/Core
+    - YapDatabase/Standard/Extensions/View
+  - YapDatabase/Standard/Extensions/FullTextSearch (4.0):
+    - YapDatabase/Standard-ObjC/Extensions/FullTextSearch
+    - YapDatabase/Standard/Core
+  - YapDatabase/Standard/Extensions/Hooks (4.0):
+    - YapDatabase/Standard-ObjC/Extensions/Hooks
+    - YapDatabase/Standard/Core
+  - YapDatabase/Standard/Extensions/ManualView (4.0):
+    - YapDatabase/Standard-ObjC/Extensions/ManualView
+    - YapDatabase/Standard/Core
+    - YapDatabase/Standard/Extensions/View
+  - YapDatabase/Standard/Extensions/Relationships (4.0):
+    - YapDatabase/Standard-ObjC/Extensions/Relationships
+    - YapDatabase/Standard/Core
+  - YapDatabase/Standard/Extensions/RTreeIndex (4.0):
+    - YapDatabase/Standard-ObjC/Extensions/RTreeIndex
+    - YapDatabase/Standard/Core
+  - YapDatabase/Standard/Extensions/SearchResultsView (4.0):
+    - YapDatabase/Standard-ObjC/Extensions/SearchResultsView
+    - YapDatabase/Standard/Core
+    - YapDatabase/Standard/Extensions/AutoView
+    - YapDatabase/Standard/Extensions/FullTextSearch
+  - YapDatabase/Standard/Extensions/SecondaryIndex (4.0):
+    - YapDatabase/Standard-ObjC/Extensions/SecondaryIndex
+    - YapDatabase/Standard/Core
+  - YapDatabase/Standard/Extensions/View (4.0):
+    - YapDatabase/Standard-ObjC/Extensions/View
+    - YapDatabase/Standard/Core
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2)
+  - Bugly
+  - FBSDKLoginKit (= 7.0.0)
+  - GoogleSignIn (= 5.0.2)
+  - HandyJSON (= 5.0.1)
+  - IQKeyboardManager (= 6.5.5)
+  - KeychainAccess
+  - MJRefresh
+  - RxCocoa
+  - RxSwift
+  - SDWebImage
+  - SnapKit (= 5.0.0)
+  - SwiftyJSON (~> 4.0)
+  - WechatOpenSDK (= 1.8.7.1)
+  - XCGLogger (~> 7.0.1)
+  - YapDatabase (= 4.0.0)
+
+SPEC REPOS:
+  https://mirrors.tuna.tsinghua.edu.cn/git/CocoaPods/Specs.git:
+    - Alamofire
+    - AppAuth
+    - Bugly
+    - FBSDKCoreKit
+    - FBSDKLoginKit
+    - GoogleSignIn
+    - GTMAppAuth
+    - GTMSessionFetcher
+    - HandyJSON
+    - IQKeyboardManager
+    - KeychainAccess
+    - MJRefresh
+    - ObjcExceptionBridging
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - SDWebImage
+    - SnapKit
+    - SwiftyJSON
+    - WechatOpenSDK
+    - XCGLogger
+    - YapDatabase
+
+SPEC CHECKSUMS:
+  Alamofire: e911732990610fe89af59ac0077f923d72dc3dfd
+  AppAuth: 73574f3013a1e65b9601a3ddc8b3158cce68c09d
+  Bugly: 4edda9bb0e3017fd453612189069757195fa23ca
+  FBSDKCoreKit: 8ad31cd09f793d1d7e84cf20fd6cebfe80ad318d
+  FBSDKLoginKit: 5d1e321dc45ab1fa09198b77fc17c32a06f008c0
+  GoogleSignIn: 7137d297ddc022a7e0aa4619c86d72c909fa7213
+  GTMAppAuth: 4deac854479704f348309e7b66189e604cf5e01e
+  GTMSessionFetcher: 6f5c8abbab8a9bce4bb3f057e317728ec6182b10
+  HandyJSON: d45b8415c501e3affc59ca9762c1197ff0feb646
+  IQKeyboardManager: 3a8b9e603f8b0eeaf5f096a1f2b2cfcf121992ef
+  KeychainAccess: 3f760109aa99b05d0f231e28b22642da7153e38a
+  MJRefresh: 53e3e3219f204425ee6d3e62e8733d3295944cd6
+  ObjcExceptionBridging: c30e00eb3700467e695faeea30e26e18bd445001
+  RxCocoa: 32065309a38d29b5b0db858819b5bf9ef038b601
+  RxRelay: d77f7d771495f43c556cbc43eebd1bb54d01e8e9
+  RxSwift: 81470a2074fa8780320ea5fe4102807cb7118178
+  SDWebImage: f1afa74b86587c2c63f4e80dfd39b21e3c17b45b
+  SnapKit: fd22d10eb9aff484d79a8724eab922c1ddf89bcf
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+  WechatOpenSDK: 6a4d1436c15b3b5fe2a0bd383f3046010186da44
+  XCGLogger: 1943831ef907df55108b0b18657953f868de973b
+  YapDatabase: 260b1b0b3e6ae6775383edc923e19813586615eb
+
+PODFILE CHECKSUM: 331e38ed3e805c7e872c49d82464af301b78143c
+
+COCOAPODS: 1.8.4

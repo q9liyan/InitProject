@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  Eduoep
+
+  Created by apple on 2020/6/2.
+  Copyright © 2020 apple. All rights reserved.
+*/
+"APP_MORE" = "更多";
+
+"LOGIN_MODEL_TOUCHID" = "点击进行Touchid登录";
+"LOGIN_MODEL_FACEID" = "点击进行面容ID登录";
+
+
